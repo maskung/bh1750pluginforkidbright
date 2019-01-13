@@ -21,7 +21,7 @@ BH 1750 เป็นเซนเซอร์ที่ใช้วัดควา
 
 ## ผู้เขียน
 
-* **Suphanut Thanyaboon** - *ผู้ริเริ่ม* - [maskung](https://github.com/maskung)
+* **Suphanut Thanyaboon** ชมรมเมกเกอร์เมืองหลวง  - *ผู้ริเริ่ม* - [maskung](https://github.com/maskung)
 
 ## License
 
